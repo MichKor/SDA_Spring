@@ -1,0 +1,10 @@
+# Project exclude paths
+/ComponentsAndAutomaticBindings/target/
+/DependencyInjectionExamples/target/
+/DependencyInjectionWithJavaConfiguration/target/
+/DependencyInjectionWithXmlConfiguration/target/
+/out/
+/Profiles/target/
+/Properties/target/
+/Qualifiers/target/
+/SingletonVsPrototype/target/
